@@ -1,6 +1,9 @@
 ### 
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=13F7F5&random=false&width=435&lines=Hi+There%F0%9F%91%8B;I%60m+Bryan+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
+
+![Bryan (1)](https://github.com/BryanMenna/BryanMenna/assets/127232166/c30146c4-b7eb-4482-992a-b22ff4e80d85)
+
 <h2>💫 About Me:</h1> 
 Hello everyone and welcome to my GitHub profile!<br><br>I am a passionate young programmer with an insatiable desire to learn and grow in the world of technology. At 22 years old, born in the United States but currently established in Argentina.<br><br>My motivation is clear: to stand out from others and contribute significantly to innovative projects. I firmly believe in the importance of collaboration and am eager to participate in various projects that challenge my skills and allow me to learn from the best.<br><br>My journey into the world of programming has been exciting so far, but I'm ready to take my skills to the next level. From coding to problem solving to designing creative solutions, I'm always looking for ways to improve and exceed expectations.<br><br>If you are looking for a proactive and enthusiastic member for your team, don't hesitate to contact me! I am willing to take on new challenges and work hard to achieve outstanding results. Together, we can do great things in the digital world.
 
