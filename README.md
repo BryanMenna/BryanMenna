@@ -1,6 +1,13 @@
-### Hi, I`m Bryan👋🧑🏻‍💻
+### 
+<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=13F7F5&random=false&width=435&lines=Hi+There%F0%9F%91%8B;I%60m+Bryan+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
+
 ![84a595bb-f949-4ddd-98cb-7ea99a7c67fe](https://github.com/BryanMenna/BryanMenna/assets/127232166/1e380e92-1f8a-4dbe-bc30-bf271338d9f5)
-<hr>
+
+<div>
+  
+</div>
 <!--
 **BryanMenna/BryanMenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
